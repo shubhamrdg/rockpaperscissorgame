@@ -6,7 +6,6 @@ A classic Rock Paper Scissors game implementation with a modern UI where players
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
 - DOM Manipulation
 
 ## Features
